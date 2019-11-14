@@ -209,13 +209,13 @@ class MySingleList {
             cur = cur.next;
         }
         return cur;*/
-        ListNode low = this.head;
+        ListNode slow = this.head;
         ListNode fast = this.head;
         while (fast != null && fast.next != null){
             fast = fast.next.next;
-            low = low.next;
+            slow = slow.next;
         }
-        return low;
+        return slow;
     }
 
     //查找链表的倒数第k个节点
@@ -242,7 +242,7 @@ class MySingleList {
         ListNode fast = this.head;
         ListNode slow = this.head;
         while (k-1 > 0) {
-            if(fast.next != null) {
+            if(fast != null) {
                 fast = fast.next;
                 k--;
             }else {
