@@ -269,7 +269,7 @@ class MySingleList {
                 //是不是第一次插入
                 if(bs == null) {
                     bs = cur;
-                    be = bs;
+                    be = cur;
                 }else {
                     be.next = cur;
                     be = be.next;
@@ -309,8 +309,7 @@ class MySingleList {
             //重复的节点
             if(cur.next != null && cur.data == cur.next.data) {
                 //每一次都需要判断cur.next
-                while (cur.next != null
-                        &&cur.data == cur.next.data) {
+                while (cur.next != null && cur.data == cur.next.data) {
                     cur = cur.next;
                 }
                 cur = cur.next;
