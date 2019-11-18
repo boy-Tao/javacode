@@ -15,8 +15,8 @@
       <file leaf-file-name="SingleList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SingleList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
-              <caret line="294" column="5" lean-forward="true" selection-start-line="294" selection-start-column="5" selection-end-line="294" selection-end-column="5" />
+            <state relative-caret-position="31">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="class#ListNode#0" />
                 <element signature="method#addFirst#0;class#MySingleList#0" />
@@ -31,7 +31,6 @@
                 <element signature="method#remove#0;class#MySingleList#0" />
                 <element signature="method#removeAllKey#0;class#MySingleList#0" />
                 <element signature="method#clear#0;class#MySingleList#0" />
-                <element signature="method#reverseList1#0;class#MySingleList#0" />
                 <element signature="method#display2#0;class#MySingleList#0" />
                 <element signature="method#middleNode#0;class#MySingleList#0" />
                 <element signature="method#findKthToTail#0;class#MySingleList#0" />
@@ -76,7 +75,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="105" />
     <option name="y" value="50" />
     <option name="width" value="1750" />
@@ -87,8 +86,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,7 +104,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,15 +197,15 @@
       <workItem from="1573794184469" duration="10600000" />
       <workItem from="1573905353211" duration="2816000" />
       <workItem from="1573953626129" duration="2943000" />
+      <workItem from="1574077241843" duration="1001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24717000" />
+    <option name="totallyTimeSpent" value="25718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -216,8 +215,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -227,15 +226,15 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +249,42 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SingleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2077">
+          <caret line="294" column="5" lean-forward="true" selection-start-line="294" selection-start-column="5" selection-end-line="294" selection-end-column="5" />
+          <folding>
+            <element signature="class#ListNode#0" />
+            <element signature="method#addFirst#0;class#MySingleList#0" />
+            <element signature="method#addLast#0;class#MySingleList#0" />
+            <element signature="method#searchIndex#0;class#MySingleList#0" />
+            <element signature="method#addIndex#0;class#MySingleList#0" />
+            <element signature="method#getLength#0;class#MySingleList#0" />
+            <element signature="method#display#0;class#MySingleList#0" />
+            <element signature="method#contains1#0;class#MySingleList#0" />
+            <element signature="method#contains2#0;class#MySingleList#0" />
+            <element signature="method#searchPrev#0;class#MySingleList#0" />
+            <element signature="method#remove#0;class#MySingleList#0" />
+            <element signature="method#removeAllKey#0;class#MySingleList#0" />
+            <element signature="method#clear#0;class#MySingleList#0" />
+            <element signature="method#display2#0;class#MySingleList#0" />
+            <element signature="method#middleNode#0;class#MySingleList#0" />
+            <element signature="method#findKthToTail#0;class#MySingleList#0" />
+            <element signature="method#partition#0;class#MySingleList#0" />
+            <element signature="method#deleteDuplication#0;class#MySingleList#0" />
+            <element signature="method#deleteDulp2#0;class#MySingleList#0" />
+            <element signature="method#chkPalindrome#0;class#MySingleList#0" />
+            <element signature="method#creatLoop#0;class#MySingleList#0" />
+            <element signature="method#hasCycle#0;class#MySingleList#0" />
+            <element signature="method#detectCycle#0;class#MySingleList#0" />
+            <element signature="method#mergeTwoLists#0;class#SingleList#0" />
+            <element signature="method#getIntersectionNode#0;class#SingleList#0" />
+            <element signature="method#creatCut#0;class#SingleList#0" />
+            <element signature="method#main#0;class#SingleList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SingleList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9734">
@@ -268,7 +303,6 @@
             <element signature="method#remove#0;class#MySingleList#0" />
             <element signature="method#removeAllKey#0;class#MySingleList#0" />
             <element signature="method#clear#0;class#MySingleList#0" />
-            <element signature="method#reverseList1#0;class#MySingleList#0" />
             <element signature="method#display2#0;class#MySingleList#0" />
             <element signature="method#middleNode#0;class#MySingleList#0" />
             <element signature="method#findKthToTail#0;class#MySingleList#0" />
@@ -305,7 +339,6 @@
             <element signature="method#remove#0;class#MySingleList#0" />
             <element signature="method#removeAllKey#0;class#MySingleList#0" />
             <element signature="method#clear#0;class#MySingleList#0" />
-            <element signature="method#reverseList1#0;class#MySingleList#0" />
             <element signature="method#display2#0;class#MySingleList#0" />
             <element signature="method#middleNode#0;class#MySingleList#0" />
             <element signature="method#findKthToTail#0;class#MySingleList#0" />
@@ -342,7 +375,6 @@
             <element signature="method#remove#0;class#MySingleList#0" />
             <element signature="method#removeAllKey#0;class#MySingleList#0" />
             <element signature="method#clear#0;class#MySingleList#0" />
-            <element signature="method#reverseList1#0;class#MySingleList#0" />
             <element signature="method#display2#0;class#MySingleList#0" />
             <element signature="method#middleNode#0;class#MySingleList#0" />
             <element signature="method#findKthToTail#0;class#MySingleList#0" />
@@ -379,7 +411,6 @@
             <element signature="method#remove#0;class#MySingleList#0" />
             <element signature="method#removeAllKey#0;class#MySingleList#0" />
             <element signature="method#clear#0;class#MySingleList#0" />
-            <element signature="method#reverseList1#0;class#MySingleList#0" />
             <element signature="method#display2#0;class#MySingleList#0" />
             <element signature="method#middleNode#0;class#MySingleList#0" />
             <element signature="method#findKthToTail#0;class#MySingleList#0" />
@@ -416,7 +447,6 @@
             <element signature="method#remove#0;class#MySingleList#0" />
             <element signature="method#removeAllKey#0;class#MySingleList#0" />
             <element signature="method#clear#0;class#MySingleList#0" />
-            <element signature="method#reverseList1#0;class#MySingleList#0" />
             <element signature="method#display2#0;class#MySingleList#0" />
             <element signature="method#middleNode#0;class#MySingleList#0" />
             <element signature="method#findKthToTail#0;class#MySingleList#0" />
@@ -437,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SingleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="294" column="5" lean-forward="true" selection-start-line="294" selection-start-column="5" selection-end-line="294" selection-end-column="5" />
+        <state relative-caret-position="31">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="class#ListNode#0" />
             <element signature="method#addFirst#0;class#MySingleList#0" />
@@ -453,7 +483,6 @@
             <element signature="method#remove#0;class#MySingleList#0" />
             <element signature="method#removeAllKey#0;class#MySingleList#0" />
             <element signature="method#clear#0;class#MySingleList#0" />
-            <element signature="method#reverseList1#0;class#MySingleList#0" />
             <element signature="method#display2#0;class#MySingleList#0" />
             <element signature="method#middleNode#0;class#MySingleList#0" />
             <element signature="method#findKthToTail#0;class#MySingleList#0" />
