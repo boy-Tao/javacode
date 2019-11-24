@@ -15,8 +15,8 @@
       <file leaf-file-name="SingleList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SingleList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="class#ListNode#0" />
                 <element signature="method#addFirst#0;class#MySingleList#0" />
@@ -75,7 +75,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="105" />
     <option name="y" value="50" />
     <option name="width" value="1750" />
@@ -197,15 +197,16 @@
       <workItem from="1573794184469" duration="10600000" />
       <workItem from="1573905353211" duration="2816000" />
       <workItem from="1573953626129" duration="2943000" />
-      <workItem from="1574077241843" duration="1001000" />
+      <workItem from="1574077241843" duration="1616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25718000" />
+    <option name="totallyTimeSpent" value="26333000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -467,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SingleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state>
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="class#ListNode#0" />
             <element signature="method#addFirst#0;class#MySingleList#0" />
